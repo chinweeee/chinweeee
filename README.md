@@ -25,6 +25,8 @@ I will keep working on my personal projects and contributing to the open source.
 
 - ⚡ Fun fact: I enjoy cycling and trying out new dishes.
 
+All my social links are in one place... [Let us be friends](https://linktr.ee/chinwee__o)
+
 
 <!--
 **chinweeee/chinweeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
