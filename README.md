@@ -11,8 +11,8 @@ I am a:
 
 #### Contact Information
 
-- Twitter: [@chinwee__o](twitter.com/Chinwee__O)
-- Instagram: [@databyteswith_Chinwe](instagram.com/databyteswith_Chinwe)
+- Twitter: [@chinwee__o](https://twitter.com/Chinwee__O)
+- Instagram: [@databyteswith_Chinwe](https://instagram.com/databyteswith_Chinwe)
 
 #### Projects
 
