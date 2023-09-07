@@ -4,7 +4,7 @@ I am a:
 
 - Data Analyst at Tucows Inc: [Wavelo](https://www.wavelo.com/).
 - Data Analyst Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 55k+ views and 1.56K Subscribers.
-- Writer:
+- Technical Writer:
   - [Medium](https://medium.com/@chinweee) which has 16 blogs, 200 Followers and 5k+ viewers
   - [Dev.to](https://dev.to/chinwee__o) which has 2 blogs and 608 viewers
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
