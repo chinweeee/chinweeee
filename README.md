@@ -16,7 +16,7 @@ I am a:
 
 #### Projects
 
-- [Language Whisperer](https://github.com/RonakReyhani/LanguageWhisperer/blob/main/Agent/transformerAgent.ipynb)
+- [Language Whisperer](https://github.com/chinweeee/LanguageWhisperer-main/blob/master/Agent/transformerAgent.ipynb)
 
 #### Buy Me A Coffee
 
