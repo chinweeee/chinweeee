@@ -3,7 +3,7 @@
 I am a:
 
 - Data Analyst at Tucows Inc: [Wavelo](https://www.wavelo.com/).
-- Data Analyst Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 61k+ views and 1.78K Subscribers.
+- Data Analyst Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 61k+ views and 2.18K Subscribers.
 - Technical Writer:
   - [Medium](https://medium.com/@chinweee) which has 16 blogs, 200 Followers and 5k+ viewers
   - [Dev.to](https://dev.to/chinwee__o) which has 2 blogs and 608 viewers
