@@ -3,7 +3,7 @@
 I am a:
 
 - Machine Learning Engineer.
-- Tech Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 70k+ views and 2.18K Subscribers.
+- Tech Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 70k+ views and 2.24K Subscribers.
 - Technical Writer:
   - [Medium](https://medium.com/@chinweee) which has 16 blogs, 200 Followers and 5k+ viewers
   - [Dev.to](https://dev.to/chinwee__o) which has 2 blogs and 608 viewers
