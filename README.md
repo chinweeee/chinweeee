@@ -1,44 +1,43 @@
-#### Chinwendu O.
+Am passionate about the use of data to derive models to drive product-driven applications. Some of the major tools in my arsenal are SQL, Python,  Scikit-Learn, Tensorflow, Huggingface, Excel, PowerBI and Google Looker. I have a proven history of using data to build data-driven products especially in the Fin-tech industry. I have worked on using data to improve the feature of applications using sentiment analysis of customer surveys (using  PowerBI and Python). This data driven decision was implemented by the product and technology team to improve the user experience of the product. My skill-sets cuts across statistics, data analysis, data visualization and Critical Thinking. One of my major strengths is the ability to work and deliver as at when due. I am data driven and possess strong communication and interpersonal skills which means I can seamlessly fit into any team.
 
-I am a:
+I pride myself on being a self-starter, problem solver, and excellent communicator with the ability to breakdown data to drive business driven decisions to stakeholder
 
-- Machine Learning Engineer.
-- Tech Content Creator: [YouTube channel](https://www.youtube.com/@chinwee__o) with over 70k+ views and 2.24K Subscribers.
-- Technical Writer:
-  - [Medium](https://medium.com/@chinweee) which has 16 blogs, 200 Followers and 5k+ viewers
-  - [Dev.to](https://dev.to/chinwee__o) which has 2 blogs and 608 viewers
-- Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
+I occasionally use different technologies & platforms, however my current favorites are:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Huggingface-yellow) ![GoogleLooker](https://img.shields.io/badge/-GoogleLooker-000?&logo=GoogleLooker)
 
-#### Contact Information
+<details>
+  <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
+  <br/>
 
-- Twitter: [@chinwee__o](https://twitter.com/Chinwee__O)
-- Instagram: [@databyteswith_Chinwe](https://instagram.com/databyteswith_Chinwe)
+I am passionate about the use of data, to come up with models to make data-driven decisions.
 
-#### Projects
+### My Portfolio
 
-- [Language Whisperer](https://github.com/chinweeee/LanguageWhisperer-main/blob/master/Agent/transformerAgent.ipynb)
+- **Predictive Analytics and Machine Learning**:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)  ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+  - [Automobile Resale Value Forecaster](https://github.com/chinweeee/Automobile_Resale_Value_Forecaster) <br>The "Automobile Resale Value Forecaster" is a machine learning project focused on predicting the resale value of automobiles using a regression model and a simple neural network. This project utilizes a simple neural network built with TensorFlow, providing insights into the resale value based on various vehicle attributes. Here I used the HorsePower of these Used Care to determine its resale value..<br/>
 
-#### Buy Me A Coffee
+</details>
 
-I will keep working on my personal projects and contributing to the open source. To do these things, I need your support.
+<br>
+  <h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2>
+  <br/>
+
+<p align="left">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" alt="Tensorflow" width="110" height="70"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Google Looker" width="80" height="80"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>       
+</p>
 
 
-- ⚡ Fun fact: I enjoy cycling and trying out new dishes.
+👩🏽‍💻 All of my projects are available at [Github](https://github.com/chinweeee?tab=repositories)
 
-All my social links are in one place... [Let us be friends](https://linktr.ee/chinwee__o)
+<br>
 
-
-<!--
-**chinweeee/chinweeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 &nbsp;**Let us be friends**
+<p align="left">
+  <a href="https://twitter.com/Chinwee__O" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chinwe" height="30" width="40" /></a>
+ 
+  
+ 
+</p>
