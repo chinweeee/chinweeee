@@ -16,7 +16,7 @@ I am passionate about the use of data, to come up with models to make data-drive
   - [Automobile Resale Value Forecaster](https://github.com/chinweeee/Automobile_Resale_Value_Forecaster) <br>The "Automobile Resale Value Forecaster" is a machine learning project focused on predicting the resale value of automobiles using a regression model and a simple neural network. This project utilizes a simple neural network built with TensorFlow, providing insights into the resale value based on various vehicle attributes. Here I used the HorsePower of these Used Care to determine its resale value.<br/>
 
 - **Amazon Q Sentiment Analysis**:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) 
-  - [Amazon Q Sentiment Analysis](https://github.com/chinweeee/Amazon_Q_Sentiment_Analysis) <br>Amazon Comprehend and Amazon Sagemaker Studio played a crucial role in carrying out the Sentiment Analysis of Amazon Q. With Amazon Comprehend’s advanced NLP capabilities such as entity recognition, key phrase extraction, and sentiment analysis, I am able to uncover valuable insights from the tweets extracted from Twitter.<br/>
+  - [Amazon Q Sentiment Analysis](https://github.com/chinweeee/Amazon_Q_Sentiment_Analysis) <br>This mini-project came as a result of my curiosity with the whole hype of AI which seems to be dominating the technology landscape. Amazon Comprehend and Amazon Sagemaker Studio played a crucial role in carrying out the Sentiment Analysis of Amazon Q. With Amazon Comprehend’s advanced NLP capabilities such as entity recognition, key phrase extraction, and sentiment analysis, I am able to uncover valuable insights from the tweets extracted from Twitter.<br/>
 
 </details>
 
