@@ -1,8 +1,10 @@
-Am passionate about the use of data to derive models to drive product-driven applications. Some of the major tools in my arsenal are SQL, Python,  Scikit-Learn, Tensorflow, Huggingface, Excel, PowerBI and Google Looker. I have a proven history of using data to build data-driven products especially in the Fin-tech industry. I have worked on using data to improve the feature of applications using sentiment analysis of customer surveys (using  PowerBI and Python). This data driven decision was implemented by the product and technology team to improve the user experience of the product. My skill-sets cuts across statistics, data analysis, data visualization and Critical Thinking. One of my major strengths is the ability to work and deliver as at when due. I am data driven and possess strong communication and interpersonal skills which means I can seamlessly fit into any team.
+Am passionate about using data to develop models and drive product-focused solutions, particularly in data engineering and analytics. My expertise lies in tools like SQL, Python, DBT, PowerBI, Google Looker, and Excel, which I have utilized to create and optimize data pipelines, enhance customer insights, and deliver actionable reports that impact business decisions. I have a proven track record of building data-driven products in the fintech industry, including customer segmentation, funnel optimization, and enhancing user experiences through data analytics. For example, I implemented a sentiment analysis on customer surveys using PowerBI and Python, leading to product improvements adopted by the technology team to enhance user experience.
+
+With strong skills in data modeling, data visualization, and critical thinking, I’ve successfully developed end-to-end data solutions that improve business performance. In my role as an Analytics Engineer, I’ve delivered impactful projects like the Flywheel Categorization Matrix, improving customer lifecycle management and increasing retention by 45%.
+I excel in collaborative environments and possess strong communication and interpersonal skills, ensuring I can seamlessly integrate with teams while delivering on time and driving data-driven decision-making.
 
 I pride myself on being a self-starter, problem solver, and excellent communicator with the ability to breakdown data to drive business driven decisions to stakeholder
-
-I occasionally use different technologies & platforms, however my current favorites are:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Huggingface-yellow) ![GoogleLooker](https://img.shields.io/badge/-GoogleLooker-000?&logo=GoogleLooker)
+I occasionally use different technologies & platforms, however my current favorites are:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)   ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![GoogleLooker](https://img.shields.io/badge/-GoogleLooker-000?&logo=GoogleLooker)
 
  <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
    <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker (1).gif" width="400" height="240" /></a>
@@ -29,12 +31,21 @@ I am passionate about the use of data, to come up with models to make data-drive
   <h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2>
   <br/>
 
-<p align="left">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" alt="Tensorflow" width="110" height="70"/>
+<p align="left">   
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Google Looker" width="80" height="80"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>    
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Google Looker" width="80" height="80"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>       
+      <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="java" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" alt="Tensorflow" width="110" height="70"/>
+      
 </p>
 
 
