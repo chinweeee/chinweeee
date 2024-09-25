@@ -6,6 +6,7 @@ I occasionally use different technologies & platforms, however my current favori
 
  <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
    <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker (1).gif" width="400" height="240" /></a>
+   <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker (2).gif" width="400" height="240" /></a>
  
 
 <details>
