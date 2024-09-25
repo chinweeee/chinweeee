@@ -4,6 +4,10 @@ I pride myself on being a self-starter, problem solver, and excellent communicat
 
 I occasionally use different technologies & platforms, however my current favorites are:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Huggingface-yellow) ![GoogleLooker](https://img.shields.io/badge/-GoogleLooker-000?&logo=GoogleLooker)
 
+ <a href="" target="_blank"><img src="https://github.com/emperorveed/emperorveed/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
+   <a href="" target="_blank"><img src="https://github.com/emperorveed/emperorveed/blob/main/ezgif.com-animated-gif-maker (1).gif" width="400" height="240" /></a>
+ 
+
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
   <br/>
