@@ -5,8 +5,8 @@ With strong skills in data modeling, data visualization, and critical thinking, 
 I pride myself on being a self-starter, problem solver, and excellent communicator with the ability to breakdown data to drive business driven decisions to stakeholder
 I occasionally use different technologies & platforms, however my current favorites are:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)  ![GoogleLooker](https://img.shields.io/badge/-GoogleLooker-000?&logo=GoogleLooker)
 
- <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
    <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker (1).gif" width="400" height="240" /></a>
+   <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
    <a href="" target="_blank"><img src="https://github.com/chinweeee/chinweeee/blob/main/ezgif.com-animated-gif-maker (2).gif" width="400" height="240" /></a>
  
 
